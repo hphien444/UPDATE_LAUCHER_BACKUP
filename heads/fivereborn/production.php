@@ -2,7 +2,7 @@
 header('x-amz-meta-bootstrap-version: 1000032');
 header('x-amz-meta-bootstrap-size: 5101700');
 header('x-amz-meta-bootstrap-object: 9865febba11a15aa8a6464c9baa17d5ae75e935da3d87fadda1ea736b7cc67f1');
-header('x-amz-meta-branch-version: 1784960663');
-header('x-amz-meta-branch-manifest: cf68fdca4ebbe015a2bd323220abe36bafb5bcc2628bc1266eb1a945af8c5ddf');
+header('x-amz-meta-branch-version: 1784962837');
+header('x-amz-meta-branch-manifest: 0e8888090361a3d6cd2ac4055d73de9c081c87ac600cb6ba196eed01b2e52d07');
 echo "OK";
 ?>
